@@ -12,4 +12,5 @@ We welcome contributions from the community! If you have suggestions, found bugs
 - Email: [info@spooni.de](info@spooni.de)
 
 Thank you for your support!
+
 Your SPOONI Team 🧡
