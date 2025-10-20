@@ -4,10 +4,9 @@
 
 ### *Nothing is Impossible*
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/spooni)
+[![Discord](https://img.shields.io/discord/1029127873249935441?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/spooni)
 [![Website](https://img.shields.io/badge/Website-spooni.pages.dev-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spooni.pages.dev)
 [![Store](https://img.shields.io/badge/Store-Tebex-00A8E8?style=for-the-badge&logo=shopify&logoColor=white)](https://spooni-mapping.tebex.io/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Spooni.Development)
 
 **Professional RedM Resources | High-Quality Mappings & Scripts | Red Dead Redemption 2 Roleplay**
 
